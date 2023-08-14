@@ -1,0 +1,57 @@
+{
+    "home" : {
+        "money": {
+            "title" : "The Value of Money",
+            "imgURL" : "https://via.placeholder.com/400?t=1",
+            "imgAlt" : "Placehoder 1",
+            "bodyText" : "The body text for the article called 'The Value of Money'"
+            },
+
+        "gmo": {
+            "title" : "GMO food",
+            "imgURL" : "https://via.placeholder.com/400?t=1",
+            "imgAlt" : "Placehoder 1",
+            "bodyText" : "The body text for the article called 'GMO Foods'"
+            },
+        
+        "World": {
+            "title" : "The View of World in 2100",
+            "imgURL" : "https://via.placeholder.com/400?t=1",
+            "imgAlt" : "Placehoder 1",
+            "bodyText" : "The body text for the article called 'The View of World in 2100'"
+            }
+    },
+    
+    "portfolio" : {
+        "proj1": {
+            "caption" : "Project 1",
+            "imgURL" : "https://via.placeholder.com/400?t=1",
+            "imgAlt" : "Placehoder 1"
+            },
+        "proj2": {
+            "caption" : "Project 2",
+            "imgURL" : "https://via.placeholder.com/400?t=2",
+            "imgAlt" : "Placehoder 2"
+            },
+        "proj3": {
+            "caption" : "Project 3",
+            "imgURL" : "https://via.placeholder.com/400?t=3",
+            "imgAlt" : "Placehoder 1"
+            },
+        "proj4": {
+            "caption" : "Project 4",
+            "imgURL" : "https://via.placeholder.com/400?t=4",
+            "imgAlt" : "Placehoder 4"
+            },
+        "proj5": {
+            "caption" : "Project 5",
+            "imgURL" : "https://via.placeholder.com/400?t=5",
+            "imgAlt" : "Placehoder 5"
+            },
+        "proj6": {
+            "caption" : "Project 6",
+            "imgURL" : "https://via.placeholder.com/400?t=6",
+            "imgAlt" : "Placehoder 6"
+            }
+    }
+}
